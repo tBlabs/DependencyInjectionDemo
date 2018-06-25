@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2
+﻿namespace DependencyInjectionDemo
 {
     public interface ISingletonService
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace DependencyInjectionDemo
 {
     public class SingletonService : ISingletonService
     {
